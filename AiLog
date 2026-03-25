@@ -1,0 +1,8 @@
+1. Parallel Fetching Prompt:
+"Write Node.js code using Promise.all to fetch API data concurrently for multiple inputs instead of sequential execution."
+
+2. Error Handling Prompt:
+"How to handle API errors in async/await JavaScript without stopping execution for other requests?"
+
+3. AI Message Generation Prompt:
+"Generate a short personalized apology message for delayed delivery due to weather conditions."
